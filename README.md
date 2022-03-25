@@ -8,7 +8,7 @@ Scheduling Algorithms:
   3. Priority 🟩
   4. RR (Round Robin) 🟩
 
-Sample Inputs and Outputs are given in [inputs_output directory](https://github.com/divyashC/cpu_scheduling_algorithms/tree/main/inputs_output)
+Sample Inputs and Outputs are given in [input_output directory](https://github.com/divyashC/cpu_scheduling_algorithms/tree/main/input_output)
 
 ## Get in touch with me on: ##
 
